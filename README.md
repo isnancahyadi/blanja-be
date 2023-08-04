@@ -41,15 +41,20 @@ Prerequisites
 
 # Installing:
 
-- Clone the repository
-- git clone https://github.com/nluthfis/blanja-be.git
+1. Clone this repository to your local machine:
 
-# Install dependencies:
+```bash
+git clone https://github.com/isnancahyadi/blanja-be.git
+cd blanja-be
+```
 
-- npm install
-- Start the server
-- npm start
-- The API will be running on port 4000.
+2. Install the required dependencies using npm or yarn:
+
+```bash
+npm install
+# or
+yarn install
+```
 
 # The API endpoints are:
 
@@ -107,13 +112,20 @@ Feel free to explore the API endpoints to understand how to interact with the Bl
 
 ## Related Project
 
-- [Blanja ](https://github.com/nluthfis/blanja-fe) <br/>
-- [Blanja Demo](https://blanja-fe-theta.vercel.app)
+- [Blanja ](https://github.com/isnancahyadi/blanja-fe)
+- [Blanja Demo](https://blanja-fe-sigma.vercel.app)
 
 ## Authors
 
-Contributors names and contact info:
+For more information about this project or have any question or need help for development, feel free to contact me.
 
-1. Naufal Luthfi Saputra
+Isnan Arif Cahyadi
 
-- [Linkedin](https://www.linkedin.com/in/naufal-luthfi-saputra/)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/isnanarifcahyadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:isnan.arifc@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
